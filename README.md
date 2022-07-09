@@ -1,5 +1,5 @@
 # shellDec
-> A php webshell detection too based on opcode and stacking.
+> A php webshell detection tool based on opcode and stacking.
 
 ## Usage
 <img src="pic/help.png">
