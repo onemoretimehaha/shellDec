@@ -5,7 +5,7 @@
 <img src="pic/help.png">
 <img src="pic/test.png">
 
-
+## Main
 主要参考了<a href="https://github.com/inspiringz/XDet"><strong>XDet</strong></a>。
 在其基础上做了如下改进：
 
@@ -22,11 +22,11 @@
 4.用stacking进行训练，基分类器分别为knn、决策树和svm，元分类器为逻辑回归。每个基分类器分别用不同的特征进行训练。
 
 
-##模型结构
+### 模型结构
 <img src="pic/model.png">
 
 
 
-##训练结果
+### 训练结果
 <img src="pic/train.png">
 
